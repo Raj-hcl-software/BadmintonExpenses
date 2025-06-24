@@ -3,19 +3,19 @@ import pandas as pd
 
 # Total spend data
 total_spent_data = {
-    "Player":       ["Ajay", "Amit", "Mohinder", "Pratyush", "Raj", "Shirin", "Soham", "Vaibhav"],
+    "Player":       ["AM", "AS", "MC", "PK", "Raj", "SG", "SDG", "Vaibhav"],
     "Amount Spent": [13400.10, 3083.71, 5670.00, 6300.72, 16788.68, 3769.48, 4048.64, 2017.63]
 }
 
 # F&B spend
 fnb_data = {
-    "Player":       ["Ajay", "Mohinder", "Pratyush", "Raj", "Shirin", "Soham", "Vaibhav"],
+    "Player":       ["AM", "MC", "PK", "Raj", "SG", "SDG", "Vaibhav"],
     "F&B Spent":    [1609.17, 462.86, 1241.92, 2691.35, 77.50, 1337.43, 85.00]
 }
 
 # Court + Shuttle spend
 court_shuttle_data = {
-    "Player":               ["Ajay", "Amit", "Mohinder", "Pratyush", "Raj", "Shirin", "Soham", "Vaibhav"],
+    "Player":               ["AM", "AS", "MC", "PK", "Raj", "SG", "SDG", "Vaibhav"],
     "Court+Shuttle Spent":  [11790.93, 3083.71, 5207.14, 5058.80, 14097.33, 3691.98, 2711.21, 1932.63]
 }
 
